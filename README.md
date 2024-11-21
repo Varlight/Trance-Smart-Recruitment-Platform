@@ -63,7 +63,7 @@ cd trance-project
 ### 2. Clone the Project from GitHub
 Clone the project repository using Git:
 ```bash
-git clone 
+git clone https://github.com/Varlight/Trance-Smart-Recruitment-Platform
 ```
 
 ### 3. Install Dependencies
