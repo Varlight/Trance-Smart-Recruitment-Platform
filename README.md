@@ -36,7 +36,7 @@ https://main.d3ephh2lbmu2zf.amplifyapp.com/
 To install the project, clone the repository:
 
 ```bash
-git clone https://github.com/sriramsenthill/trance.git
+git clone https://github.com/Varlight/Trance-Smart-Recruitment-Platform.git
 ```
 ## Setting Up Your MERN Stack Project: Trance
 
